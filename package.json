@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1 -p 12345 public",
-    "compile": "browserify src/app.js -o public/js/app.js -d"
+    "compile": "browserify src/app.js -o public/js/app.js -d;"
   },
   "author": "",
   "license": "ISC",
